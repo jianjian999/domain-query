@@ -1,0 +1,18 @@
+.search-style {
+    display:flex;
+    margin:2vw;
+  }
+  h1 {
+    margin-right: 3vw;
+    height: 3vh;
+    /* This will push the navigation to the end of the header */
+  }
+  .logo {
+    width: 70px; /* Example width */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 7px;
+  }
+
+  .header {
+    display: flex;
+  }
